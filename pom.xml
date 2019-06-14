@@ -58,7 +58,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.tracktopell.test.testmail.SendGMailSMTPMail</mainClass>
+							<mainClass>com.tracktopell.test.testmail.SendSMTPMail</mainClass>
 							<classpathPrefix>dependency-jars/</classpathPrefix>
 						</manifest>
 					</archive>
